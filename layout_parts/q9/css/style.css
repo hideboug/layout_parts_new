@@ -2,7 +2,7 @@
 
 /* 回答はここに書いてね */
 
-.q9__fukidashi {
+.q9__blowing {
   position: relative;
   width: 500px;
   padding: 20px;
@@ -11,8 +11,8 @@
   border-radius: 30px;
 }
 
-.q9__fukidashi:before,
-.q9__fukidashi:after {
+.q9__blowing:before,
+.q9__blowing:after {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -22,13 +22,13 @@
   border: 20px solid transparent;
 }
 
-.q9__fukidashi:before {
+.q9__blowing:before {
   bottom: -45px;
   left: 30px;
   border-top-color: #222;
 }
 
-.q9__fukidashi:after {
+.q9__blowing:after {
   bottom: -38px;
   left: 30px;
   border-top-color: #fff;

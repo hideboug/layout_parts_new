@@ -8,11 +8,11 @@
   clear: both;
 }
 
-.q7 .q7__box {
+.q7 .is-box {
   width: 225px;
 }
 
-.q7--float .q7__box {
+.q7--float .is-box {
   float: left;
   margin-left: 50px;
   font-size: 16px;
@@ -27,7 +27,7 @@
   display: table;
 }
 
-.q7--table .q7__box {
+.q7--table .is-box {
   display: table-cell;
   padding-left: 50px;
   vertical-align: middle;
@@ -45,7 +45,7 @@
   font-size: 0;
 }
 
-.q7--inlineblock .q7__box {
+.q7--inlineblock .is-box {
   display: inline-block;
   margin-left: 50px;
   font-size: 16px;
@@ -63,7 +63,7 @@
   align-items: flex-end;
 }
 
-.q7--flex .q7__box {
+.q7--flex .is-box {
   font-size: 16px;
   vertical-align: middle;
   box-sizing: border-box;
